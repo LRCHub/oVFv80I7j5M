@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "7:23 a.m.",
+  "base_artist": "YACA IN DA HOUSE",
+  "createdAt": "2026-02-16T12:59:06.358947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heavy Metal Drummer - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": false,
+      "path": "select/01_Heavy_Metal_Drummer_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pot Kettle Black - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/02_Pot_Kettle_Black_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Comes Love (7-23-57)",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/03_Comes_Love_(7-23-57)_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meet Me In The City - Live at Ullevi Stadium, Goteborg, SE - 7/23/2016",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/04_Meet_Me_In_The_City_-_Live_at_Ullevi_Stadium,_Goteborg,_SE_-_7_23_2016_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Meet Me In The City (Live at Ullevi Stadium, Goteborg, SE - 7/23/2016)",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/05_Meet_Me_In_The_City_(Live_at_Ullevi_Stadium,_Goteborg,_SE_-_7_23_2016)_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Not for the Season (Laminated Cat) - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/06_Not_for_the_Season_(Laminated_Cat)_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ashes of American Flags - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/07_Ashes_of_American_Flags_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "California Stars - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/08_California_Stars_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Far, Far Away - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/09_Far,_Far_Away_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Am Trying to Break Your Heart - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/10_I_Am_Trying_to_Break_Your_Heart_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I’m Always in Love - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/11_I’m_Always_in_Love_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I’m the Man Who Loves You - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/12_I’m_the_Man_Who_Loves_You_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jesus, Etc. - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/13_Jesus,_Etc._-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kamera - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/14_Kamera_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Misunderstood - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/15_Misunderstood_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Outtasite (Outta Mind) - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/16_Outtasite_(Outta_Mind)_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Radio Cure - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/17_Radio_Cure_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Red-Eyed and Blue - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/18_Red-Eyed_and_Blue_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sunken Treasure - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/19_Sunken_Treasure_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "War on War - Live at The Pageant, St. Louis, MO 7/23/02",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/20_War_on_War_-_Live_at_The_Pageant,_St._Louis,_MO_7_23_02_Wilco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7:23 a.m.",
+      "artist": "YACA IN DA HOUSE",
+      "has_synced": false,
+      "path": "select/pl_01_7_23_a.m._YACA_IN_DA_HOUSE.txt"
+    }
+  ]
+}
